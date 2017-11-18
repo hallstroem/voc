@@ -3,6 +3,10 @@
 
 import sys, getopt, random
 
+def usage():
+    pass
+
+
 path=sys.argv[1]
 lang_in=int(sys.argv[2])
 if lang_in == 1:
