@@ -4,7 +4,7 @@
 import sys, getopt, random
 
 def usage():
-    pass
+    print("voc:")
 
 
 path=sys.argv[1]
